@@ -1,0 +1,3 @@
+s=["ram","sree","vicky"]
+b=list(map(len,s))
+print(b)
